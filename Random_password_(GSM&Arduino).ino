@@ -39,7 +39,7 @@ const int maxAttemptOwner = 3;
 const int maxAttemptGuest = 3;
 
 // owners phone number
-const String phoneNumber = "+8801580342388";
+const String phoneNumber = "your phone number here";
 
 void setup()
 {
