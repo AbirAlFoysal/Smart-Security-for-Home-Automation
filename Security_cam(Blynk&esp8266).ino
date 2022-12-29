@@ -14,18 +14,13 @@ int sensor = D6;
 int sensor2 = D1;
 
 
-// #define BLYNK_TEMPLATE_ID "TMPL8sQNV9B7"
+// #define BLYNK_TEMPLATE_ID "TMPLb_sUCNVp"
 // #define BLYNK_DEVICE_NAME "esp project"
-// #define BLYNK_AUTH_TOKEN "U133YYmWGnHUEAhc4QqZgTysmP8YMj-3"z
-#define BLYNK_TEMPLATE_ID "TMPLb_sUCNVp"
-#define BLYNK_DEVICE_NAME "esp project"
 // wifi detail.
-// Redmi Note 10S
-// abir125852
 
-char auth[] = "9_SrHEr7QGTlLyvDem1b1YT6KmpyUh0j";  //Auth Token from Blynk Project
-char ssid[] = "Fahim K20 pro";   //Router Name
-char pass[] = "fahim999"; //Router Password
+char auth[] = "your auth token from Blynk app";  //Auth Token from Blynk Project
+char ssid[] = "name of your wifi(with internet)";   //Router Name
+char pass[] = "password of your wifi"; //Router Password
 
 
 
